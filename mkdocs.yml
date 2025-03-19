@@ -1,0 +1,13 @@
+site_name: Temperature conversion
+
+theme: 
+ name: "mkdocs"
+
+nav:
+ - Overview: index.md
+ - API: api.md
+
+plugins:
+ - mkdocstrings
+
+
